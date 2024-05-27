@@ -1,0 +1,1 @@
+This repository contains a collection of Jupyter notebooks designed for a Master's degree course in Cryptography. The notebooks cover both theoretical and practical aspects of cryptography, including fundamental concepts, algorithms, protocols, and their implementations in Python.
